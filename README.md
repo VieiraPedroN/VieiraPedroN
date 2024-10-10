@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
-<h3 align="center">Atuamente estou foco para desenvolvimento<br> Front End e busca do Full Stack em Java</h3>
+<h3 align="center">Atuamente estou foco para desenvolvimento<br> Front End e em busca do Full Stack em Java</h3>
 <h3 align="center">Estou sempre buscando aprender e melhorar</h3>
 <div style="text-align: center;">
   <p align="center">
