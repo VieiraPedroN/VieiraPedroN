@@ -18,8 +18,6 @@
 <div style="text-align: center;">
   <h2 align="center">Habilidades Front End</h2>
   <p align="center">
-    <img src="./assets/imgs/html5-brands-solid.svg"/>
-    <img src="./assets/imgs/css3-brands-solid.svg"/> 
     <img src="./assets/imgs/js-brands-solid.svg"/>
     <img src="./assets/imgs/icons8-typescript.svg">
     <img src="./assets/imgs/angular-brands-solid.svg"/>
@@ -32,6 +30,7 @@
   <p align="center">
     <img src="./assets/imgs/python-brands-solid.svg"/> 
     <img src="./assets/imgs/icons8-sqlite.svg"/>
+    <img src="./assets/imgs/icons8-csharp.svg"/>
   </p>
 </div>
  
