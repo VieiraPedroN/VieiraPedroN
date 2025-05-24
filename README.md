@@ -29,7 +29,7 @@
   <h2 align="center">Habilidades Back End</h2>
   <p align="center">
     <img src="./assets/imgs/python-brands-solid.svg"/> 
-    <img src="./assets/imgs/icons8-sqlite.svg"/>
+    <!-- <img src="./assets/imgs/icons8-sqlite.svg"/> -->
     <img src="./assets/imgs/icons8-csharp.svg"/>
   </p>
 </div>
