@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
-<h3 align="center">Atualmente estou em foco para desenvolvimento<br> Back End porem buscando o Full Stack</h3>
+<h3 align="center">Atualmente estou exercendo estagio de Full Stack</h3>
 <h3 align="center">Estou sempre buscando aprender e melhorar</h3>
 <div style="text-align: center;">
   <p align="center">
@@ -29,7 +29,6 @@
   <h2 align="center">Habilidades Back End</h2>
   <p align="center">
     <img src="./assets/imgs/python-brands-solid.svg"/> 
-    <!-- <img src="./assets/imgs/icons8-sqlite.svg"/> -->
     <img src="./assets/imgs/icons8-csharp.svg"/>
   </p>
 </div>
