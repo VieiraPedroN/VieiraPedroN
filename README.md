@@ -7,8 +7,8 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
 </h1>
 
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
-<h3 align="center">Atualmente estou exercendo estagio de Full Stack</h3>
+<h3 align="center">Sou formado em Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Atualmente estou exercendo o cargo de Dev FullStack Jr</h3>
 <h3 align="center">Estou sempre buscando aprender e melhorar</h3>
 <div style="text-align: center;">
   <p align="center">
