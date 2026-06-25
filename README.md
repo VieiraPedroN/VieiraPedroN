@@ -28,6 +28,7 @@
   <p align="center">
     <img src="./assets/imgs/python-brands-solid.svg"/> 
     <img src="./assets/imgs/icons8-csharp.svg"/>
+    <img src="./assets/imgs/icons8-nestjs.svg">
   </p>
 </div>
  
