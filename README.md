@@ -26,11 +26,21 @@
 <div style="text-align: center;">
   <h2 align="center">Habilidades Back End</h2>
   <p align="center">
-    <img src="./assets/imgs/python-brands-solid.svg"/> 
+    <img src="./assets/imgs/icons8-nodejs.svg"/>
     <img src="./assets/imgs/icons8-csharp.svg"/>
-    <img src="./assets/imgs/icons8-nestjs.svg">
+    <img src="./assets/imgs/icons8-nestjs.svg"/>
   </p>
 </div>
+
+<div style="text-align: center;">
+  <h2 align="center">Habilidades Infra</h2>
+  <p align="center">
+    <img src="./assets/imgs/icons8-docker.svg"/>
+    <img src="./assets/imgs/icons8-git.svg"/>
+    <img src="./assets/imgs/icons8-aws.svg"/>
+  </p>
+</div>
+
  
  
 <br>
