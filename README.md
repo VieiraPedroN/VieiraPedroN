@@ -9,9 +9,6 @@
 <h3 align="center">Atualmente estou exercendo o cargo de Dev FullStack Jr</h3>
 <h3 align="center">Estou sempre buscando aprender e melhorar</h3>
 <div style="text-align: center;">
-  <p align="center">
-    <img src="./assets/imgs/undraw_pair_programming_re_or4x.svg" style="width:500px;"/>
-  </p>
 </div>
 <div style="text-align: center;">
   <h2 align="center">Habilidades Front End</h2>
