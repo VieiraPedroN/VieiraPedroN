@@ -46,6 +46,6 @@
 <br>
 <hr style="border: none; border-top: 1px solid #555; width: 100%;" />
 <br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VieiraPedroN&theme=dark&show_icons=true&locale=en"  alt="VieiraPedroN" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VieiraPedroN&show_icons=true&count_private=true&theme=radical&hide_border=true"  alt="VieiraPedroN" /></p>
 
-<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VieiraPedroN&show_icons=true&theme=dark&locale=en&layout=compact" alt="VieiraPedroN" /></p>
+<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VieiraPedroN&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="VieiraPedroN" /></p>
